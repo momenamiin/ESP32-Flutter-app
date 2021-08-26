@@ -1,16 +1,14 @@
-# esp_app
+## ESP Control app with flutter for android and ios and windows and web
 
-esp led control led app
+a simple flutter that work with esp 32 to read the status of bin 27 and contol bin 26 and connect the esp to the local network automatically using ESPtouch.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+first follow this link on how to use esp32 with the arduino IDE and upload .ino file from the repo 
+https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/
 
-A few resources to get you started if this is your first Flutter project:
+## Screen shots from the app 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![image](https://user-images.githubusercontent.com/18642838/131028507-d001692f-7881-4c51-9841-e3186004edfc.png)
+![image](https://user-images.githubusercontent.com/18642838/131028593-e4e228db-ef38-4d25-adf4-02e4883f6825.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
